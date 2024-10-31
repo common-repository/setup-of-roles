@@ -1,0 +1,41 @@
+#submit-caps {
+  margin: 10px 0 0 1em;
+}
+
+#new-role, #new-role-display {
+  margin-right: 1em;
+}
+
+hr.up-caps {
+  width: 98%;
+  float: left;
+}
+
+.table-caps {
+  border-spacing: 0px;
+  float: left;
+  margin-top: 10px;
+}
+
+.th-roles {
+  border-bottom: solid 1px #ddd;
+}
+
+td.cap-check, .th-roles {
+  padding: 0 7px;
+}
+
+td.cap-check, td.cap {
+  text-align: center;
+  border-top: solid 1px #fafafa;
+  border-bottom: solid 1px #ddd;
+}
+
+td.cap {
+  text-align: left;
+}
+
+.tr-cap-end {
+  border-top: solid 1px #fafafa;
+  border-bottom: none;
+}
